@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms In Java
 <hr>
 <p>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/Best%2C%20avg%20and%20worst%20%20case%20analysis">Best, avg and worst  case analysis</a><br>
