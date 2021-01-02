@@ -19,21 +19,16 @@
 <br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/BackTracking">BackTracking</a>
 <br>
-  <br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/JobSequencing">JobSequencing</a>
 <br>
-  <br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/MaxSubArray">MaxSubArray</a>
 <br>
-  <br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/Minimum%20Cost%20BST">Minimum Cost Binary search tree</a>
-<br><br>
+<br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/SearchingAlgorithms">Searching Algorithms </a>
 <br>
-  <br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/SortingAlgorithms">Sorting Algotithms</a>
 <br>
-  <br>
 <a href="https://github.com/ShyamKumar1/Algorithms/tree/main/StrassenMatrixMul">Strassens Algorithm</a>
 <br>
 </p>
